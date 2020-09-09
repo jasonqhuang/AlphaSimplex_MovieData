@@ -1,4 +1,5 @@
 # AlphaSimplex - Movie Data
+By: Jason Q Huang
 
 ### Executive Summary
 
